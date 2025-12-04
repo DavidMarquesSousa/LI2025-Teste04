@@ -1,0 +1,207 @@
+    1  ls -all
+    2  sleep 15
+    3  sleep 15 &
+    4  ls -all
+    5  sleep 30 &
+    6  ps
+    7  exit
+    8  bash
+    9  root
+   10  sudo bash
+   11  git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   12  git pull origin main
+   13  ls
+   14  cd LAhtml1
+   15  ls
+   16  cd Projeto1html.html
+   17  cat Projeto1html.html
+   18  cd
+   19  ls
+   20  ls -all
+   21  cd var/www/html
+   22  cd var/www/html/
+   23  cd /var/www/html
+   24  ls
+   25  sudo vi index.html
+   26  git pull origin main
+   27  git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   28  sudo git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   29  sudo git pull origin main
+   30  ls -all
+   31  cd /var/www/html
+   32  ls
+   33  rm -r LAhtml1
+   34  rmdir -r LAhtml1
+   35  sudo rmdir -r LAhtml1
+   36  sudo rmdir LAhtml1
+   37  sudo rm -r LAhtml1
+   38  ls
+   39  git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   40  sudo git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   41  ls
+   42  cd /vim/www/html
+   43  ls -all
+   44  cd /var/www/html
+   45  ls
+   46  rm -r LAhtml1
+   47  ls
+   48  rm -r LAhtml1 y
+   49  rm -rf LAhtml1
+   50  sudo rm -rf LAhtml1
+   51  ls
+   52  sudo git clone https://github.com/DavidMarquesSousa/LAhtml1.git
+   53  ls
+   54  cd Lahtml1
+   55  cd LAhtml1
+   56  ls
+   57  cd /var/www/html
+   58  ls
+   59  sudo rm -rf Curriclo
+   60  ls
+   61  sudo git clone https://github.com/DavidMarquesSousa/Curriclo.git
+   62  ls
+   63  sudo rm -r LAhrml1
+   64  sudo rm -r LAhtml1
+   65  ls
+   66  ls -all
+   67  cd /www/var/html
+   68  cd /var/www/html
+   69  ls -all
+   70  cd Curriclo
+   71  ls
+   72  cd ..
+   73  vim index.html
+   74  cd
+   75  cd /
+   76  ls
+   77  cd ..
+   78  cd ~
+   79  ls
+   80  var var/www/html
+   81  cd var/www/html
+   82  cd /var/www/html
+   83  ls
+   84  sudo rm -r Curriclo
+   85  ls
+   86  git clone https://github.com/DavidMarquesSousa/LI2025-Teste03.git
+   87  ls
+   88  sudo git clone https://github.com/DavidMarquesSousa/LI2025-Teste03.git
+   89  ls
+   90  cd LI2025-Teste03
+   91  ls
+   92  mkdir 120982
+   93  sudo mkdir 120982
+   94  ls
+   95  toutch README.md
+   96  touch README.md
+   97  sudo touch README.md
+   98  ls
+   99  vim README.md
+  100  cat README.md
+  101  vim README.md
+  102  cat README.md
+  103  vim README.md
+  104  touch Teste de LI 2025/2026 > README.md
+  105  sudo touch Teste de LI 2025/2026 > README.md
+  106  sudo touch Teste de LI 2025/2026 >> README.md
+  107  cat "Teste de LI 2025/2026" > README.md
+  108  sudo cat "Teste de LI 2025/2026" > README.md
+  109  sudo chown $USER README.md 
+  110  cat "Teste de LI 2025/2026" > README.md
+  111  touch Teste de LI 2025/2026 > README.md
+  112  sudo cat "Teste de LI 2025/2026" > README.md
+  113  vim README.md
+  114  cat README.md
+  115  cd ..
+  116  ls
+  117  git add LI2025-Teste03
+  118  git add ..
+  119  git push 
+  120  git push LI2025-Teste03
+  121  git add .
+  122  cd LI2025-Teste03
+  123  ls
+  124  git add .
+  125  git add ..
+  126  git add .
+  127  sudo git add .
+  128  sudo git commit -m 2ª tarefa concluída
+  129  sudo git add .
+  130  sudo git commit -m 2ª tarefa concluída
+  131  ls -all
+  132  cd 120982
+  133  ls
+  134  ls -all
+  135  cd
+  136  cd /var/www/html/LI2025-Teste03
+  137  ls
+  138  cat README.md
+  139  mv README.md 120982/
+  140  sudo mv README.md 120982/
+  141  ls
+  142  cd 120982
+  143  ls
+  144  cd ..
+  145  git add .
+  146  sudo git add .
+  147  sudo git push -m "2ª tarefa concluída"
+  148  sudo git commit -m "2ª tarefa concluída"
+  149  git push origin main
+  150  cd /
+  151  history > meusComandosAzure.txt
+  152  sudo history > meusComandosAzure.txt
+  153  cd ~
+  154  sudo history > meusComandosAzure.txt
+  155  cd /var/www/html/LI2025-Teste03
+  156  git pull origin main
+  157  sudo git pull origin main
+  158  sudo history > meusComandosAzure.txt
+  159  ls -all
+  160  sudo chown $USER meusComandosAzure.md
+  161  sudo chown $USER LI2025-Teste03
+  162  sudo chown $USER
+  163  sudo chown $USER .
+  164  sudo history > meusComandosAzure.txt
+  165  ls -all
+  166  cat meusComandosAzure.txt 
+  167  history > meusComandosAzure.txt
+  168  ls
+  169  cat meusComandosAzure.txt 
+  170  git add .
+  171  sudo git add .
+  172  sudo git commit -m "history azure"
+  173  sudo git push origin main
+  174  cd /var/www/html
+  175  ls
+  176  cd /var/www/html
+  177  ls
+  178  rm -rf LI2025-Teste03
+  179  ls
+  180  rm -rf LI2025-Teste03
+  181  ls -all
+  182  sudo rm -rf LI2025-Teste03
+  183  ls -all
+  184* sudo git clone https://github.com/DavidMarquesSousa/LI2025-Teste04.gitD
+  185  ls
+  186  cd LI2025-Teste04
+  187  ls
+  188  mkdir js
+  189  sudo mkdir js
+  190  sudo mkdir css
+  191  ls
+  192  cd js
+  193  touch script.js >> //ficheiro de script
+  194  sudo touch script.js >> //ficheiro de script
+  195  sudo chown $USER:$USER js
+  196  sudo chown $USER:$USER
+  197  sudo chown -R $USER:$USER /var/www/html/LI2025-Teste04
+  198  touch script.js >> //ficheiro de script
+  199  echo "//ficheiro de script" > script.js
+  200  cat script.js
+  201  cd ..
+  202  ls
+  203  cd css
+  204  touch style.css
+  205  ls
+  206  cd ..
+  207  history > cmdsTarefa2.txt.
